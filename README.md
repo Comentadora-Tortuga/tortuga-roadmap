@@ -23,5 +23,5 @@ This is the **central repository of Turtle Code**, a liberation project that use
 - Develop open datasets with examples of manipulative discourse.  
 
 ---
-
+contact: comentadoratortuga@gmail.com
 *"The code will be free or it will not exist. The turtle never retreats."*
